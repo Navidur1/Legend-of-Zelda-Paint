@@ -1,4 +1,4 @@
-# Pokemon Arena
+# Legend of Zelda Paint
 ### ICS3U Project
 ##### Navidur Rahman
 
